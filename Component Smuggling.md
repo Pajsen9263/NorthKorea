@@ -1,4 +1,4 @@
-
+Things smuggeled to [[DPRK]] ignoring [[Sanctions]]
 # Baengnyong-do Island unmanned aerial vehicle
  
 Ref: (See /UN/Security Council/n1601096 page 33 through 35)
@@ -75,3 +75,8 @@ Main charactieristics
 | 7   | Transciver                        | United States          | Sold to Chinese intermediary                                 | 31 August 2011            |         |
 | 8   | Camera                            | Japan                  | Sold to distributor                                          | 19 September 2011         |         |
 | 8   | Parachute                         | China                  | Likely manufactured in (see date), manufacturer yet to reply | October 2011              |         |
+
+
+
+Components smuggeled though [[Ryongsong Trading Company Co Ltm]]
+	
