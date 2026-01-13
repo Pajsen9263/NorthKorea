@@ -2,4 +2,4 @@
 
 
 
-People are trafficted, see [[Human Trafficing]]
+People are trafficted, see [[Human Trafficking]]

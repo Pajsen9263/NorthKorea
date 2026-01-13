@@ -1,4 +1,4 @@
-Things smuggeled to [[DPRK]] ignoring [[Sanctions]]
+-Things smuggeled to [[DPRK]] ignoring [[Sanctions]]
 # Baengnyong-do Island unmanned aerial vehicle
  
 Ref: (See /UN/Security Council/n1601096 page 33 through 35)
@@ -79,4 +79,6 @@ Main charactieristics
 
 
 Components smuggeled though [[Ryongsong Trading Company Co Ltm]]
+
+
 	
