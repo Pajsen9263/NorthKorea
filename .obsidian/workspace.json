@@ -12,12 +12,14 @@
             "id": "e0039cedc62bbb30",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PDF Files/EU/16.pdf"
+                "file": "Locations.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "16"
+              "icon": "lucide-file",
+              "title": "Locations"
             }
           }
         ]
@@ -190,6 +192,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -200,8 +203,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0039cedc62bbb30",
+  "active": "d0d3b28389d3d4dc",
   "lastOpenFiles": [
+    "PDF Files/EU/16.pdf",
     "PDF Files/EU/1.pdf",
     "PDF Files/UN/Security Council/n1601096.pdf",
     "Locations.md",

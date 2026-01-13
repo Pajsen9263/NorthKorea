@@ -25,3 +25,9 @@ https://www.google.se/maps/@39.591022,125.1839809,1010a,35y,233.7h,12.13t
 
 
 Military bases
+
+
+
+
+
+https://earth.google.com/earth/d/1xn0toKG9xWUZbPSaS-5RF2Yg_-a5dgmY?usp=sharing
